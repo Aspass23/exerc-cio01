@@ -1,2 +1,2 @@
-# exerc-cio01
+# EXERCICIO-01
 store-landingpage
